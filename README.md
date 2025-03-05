@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @ser-sah
 - I am a Devops Engineer
 - 👀 I’m interested in Devops news.
-- 🌱 I’m currently learning Kubernetes.
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me with my e-mail ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently working with Kubernetes.
+
 
 <!---
 ser-sah/ser-sah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
